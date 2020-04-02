@@ -1,2 +1,5 @@
 # Hello-World
-Tehtävä 1
+
+Hei!
+
+Olen 16-vuotias poika ja opiskelen Juhannuskukkulan ammatti-instituutissa
